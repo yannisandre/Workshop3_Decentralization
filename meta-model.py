@@ -5,7 +5,7 @@ api_urls = [
     "https://437c-89-30-29-68.ngrok-free.app/predict", #guilherme
     "https://6f96-89-30-29-68.ngrok-free.app/predict", #yannis (moi)
     "https://33a5-89-30-29-68.ngrok-free.app/predict", #dany
-    "https://ee5d-89-30-29-68.ngrok-free.app/predict"  #théo
+    "https://437c-89-30-29-68.ngrok-free.app/predict"  #théo
 ]
 
 # Function to fetch predictions from each API
