@@ -10,4 +10,4 @@ to test :
 
 -launch python3 app.py & ngrock http 5000
 
--to test : python3 meta-model.py or for Proof os Stake : python3 meta_model_with_slashing.py
+-to test : python3 meta-model.py or for Proof of Stake implementation : python3 meta_model_with_slashing.py
